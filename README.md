@@ -17,7 +17,6 @@
 |General|Streaks|Most Used|
 |--|--|--|
 |![](https://github-readme-stats.vercel.app/api?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=h3l2f&theme=dark&hide_border=false)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|
-||Profile Views||
-||![](https://visitcount.itsvg.in/api?id=h3l2f&icon=0&color=0)||
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=h3l2f&icon=0&color=0"></div>
 
 <div align="center"> <h6>Have a nice day :3</h6> </div>
