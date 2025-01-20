@@ -5,8 +5,8 @@
 
 # About ME
 - I'm from Vietnam
-- Three years of experience with [Python](https://python.org)
-- I am currently learning HTML, CSS, and JavaScript
+- Three years of experience with [Python](https://python.org), almost one year with fullend.
+- I am currently learning [C++](cplusplus.com)
 
 # Social Media
 - Discord: [h3l2f](https://discordapp.com/users/1010265309879468193)
