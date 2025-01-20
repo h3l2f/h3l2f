@@ -5,7 +5,7 @@
 
 # About ME
 - I'm from Vietnam
-- Three years of experience with [Python](https://python.org), almost one year with fullend.
+- Three years of experience with [Python](https://python.org), almost one year with fullstack web developer.
 - I am currently learning [C++](cplusplus.com)
 
 # Social Media
