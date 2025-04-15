@@ -4,7 +4,7 @@
 </div>
 
 # About ME
-- Vietnamese 100% (cali get out) 🇻🇳
+- Vietnamese 100% (cali get out) <img src="https://discord.com/assets/65db8487c6d75865.svg" alt="flag_vn" width="20" />
 - Three years of experience with [Python](https://python.org), almost one year with fullstack web developer.
 
 # Social Media
