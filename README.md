@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://h3l2f.site/cdn-cgi/image/width=100/favicon.png"></img>
-  <h3><a href="https://h3l2f.site">H3L2F</a></h3>
+  <img src="https://tmhhd.cf/cdn-cgi/image/width=100/favicon.png"></img>
+  <h3><a href="https://h3l2f.online">H3L2F</a></h3>
 </div>
 
 # About ME
