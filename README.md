@@ -10,7 +10,7 @@
 # Social Media
 - Discord: [h3l2f](https://discordapp.com/users/1010265309879468193)
 - Telegram: [@h3l2f](https://t.me/h3l2f)
-- Website: [https://h3l2f.site](https://h3l2f.site)
+- Website: [https://h3l2f.online](https://h3l2f.online)
 
 # Stats
 |General|Streaks|Most Used|
