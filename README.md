@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://tmhhd.cf/cdn-cgi/image/width=100/favicon.png"></img>
-  <h3><a href="https://h3l2f.online">H3L2F</a></h3>
+  <h3><a href="https://h3l2f.qzz.io">H3L2F</a></h3>
 </div>
 
 # About ME
-- Vietnamese 100% (cali get out) <img src="https://discord.com/assets/65db8487c6d75865.svg" alt="flag_vn" width="20" />
-- Three years of experience with [Python](https://python.org), almost one year with fullstack web developer.
+- Vietnamese 100% **(~~cali~~ get out)** <img src="https://discord.com/assets/65db8487c6d75865.svg" alt="flag_vn" width="20" />
+- I spend my time coding, working on personal projects, and figuring out how things work under the hood.
 
 # Social Media
 - Discord: [h3l2f](https://discordapp.com/users/1010265309879468193)
