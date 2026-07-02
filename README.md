@@ -3,17 +3,17 @@
   <h3><a href="https://h3l2f.qzz.io">H3L2F</a></h3>
 </div>
 
-# About ME
+# About me
 - Vietnamese 100% **(~~cali~~ get out)** <img src="https://discord.com/assets/65db8487c6d75865.svg" alt="flag_vn" width="20" />
 - I spend my time coding, working on personal projects, and figuring out how things work under the hood.
 
-# Social Media
+# Social media
 - Discord: [h3l2f](https://discordapp.com/users/1010265309879468193)
 - Telegram: [@h3l2f](https://t.me/h3l2f)
 
 # Stats
 |General|Streaks|Most Used|
 |--|--|--|
-|![](https://github-readme-stats.vercel.app/api?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats-phi-puce.vercel.app?user=h3l2f&theme=dark)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|
+|![](https://github-stats-extended.vercel.app/api?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://github-readme-streak-stats-phi-puce.vercel.app?user=h3l2f&theme=dark)|![](https://github-stats-extended.vercel.app/api/top-langs/?username=h3l2f&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)|
 
 <div align="center"> <h6>Have a nice day :3</h6> </div>
