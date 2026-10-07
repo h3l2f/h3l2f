@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tmhhd.cf/cdn-cgi/image/width=100/favicon.png"></img>
+  <img src="https://h3l2f.vercel.app/cdn-cgi/image/width=100/favicon.png"></img>
   <h3><a href="https://h3l2f.qzz.io">H3L2F</a></h3>
 </div>
 
